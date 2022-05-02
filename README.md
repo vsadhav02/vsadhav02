@@ -28,7 +28,7 @@ I am lifelong learner and technology enthusiast. I am working on Devops Tools an
 - Linux and Network administartion
 - Cyber Security
 - DevOps
-- DevSecOps
+- Ansible and Terraform
 
 ## Certifications
 - Kubernetes Certified Administrator
